@@ -1,7 +1,7 @@
 - 👋 Hi, I’m MD Sameena Thasleem
-- 👀 I’m interested in learning skills and building innovative ideas ...
-- 🌱 I’m studying BTech 3rd year ...
-- 💞️ I’m trying to figure out my strengths  ...
+- 👀 I’m interested in learning skills and building innovative ideas
+- 🌱 I’m studying BTech 3rd year
+- 💞️ I’m trying to figure out my strengths 
   
 
 <!---
